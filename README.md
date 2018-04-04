@@ -1,7 +1,7 @@
 # libcef3
 A simple cef3 integration - framework for embedding a web browser engine into a c++ application based on the Chromium core.
 
-![Logo](https://i.imgur.com/UVR63QD.png)
+![Logo](https://i.imgur.com/aql4jzU.png)
 
 A simple cef3 integration of the CEF "3.3325.1756.g6d8faa4 / Chromium 65.0.3325.181" version.
 
